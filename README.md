@@ -1,4 +1,1 @@
-# Quantium starter repo
-This repo contains everything you need to get started on the program! Good luck!
-
-Thank you for the help with the required documents for task 1 an this my completed work of task 1 
+Created virtual environment downloaded dash and pandas dependencies into virtual environment and added them into requirement.txt committed the changes and pushed into the GitHub
