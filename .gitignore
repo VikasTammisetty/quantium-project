@@ -5,6 +5,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache
 
 # C extensions
 *.so
@@ -109,6 +110,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+chrome-win64
 ENV/
 env.bak/
 venv.bak/
